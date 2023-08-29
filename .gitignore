@@ -1,3 +1,4 @@
-*.zip
+.git
+.gitignore
 *.bat
 *.text
